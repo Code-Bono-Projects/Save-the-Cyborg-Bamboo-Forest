@@ -10,7 +10,4 @@ Testing for feed appearance...++, ++
 ==
 ===
 => => <=>
-!=l;sihga
-!==
-jkh
-,
+
